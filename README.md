@@ -2,4 +2,5 @@
 My study space
 
 gitpod URL
-gitpod.io/#
+
+https://gitpod.io/#github.com/chisaxxx/study01
